@@ -1,1 +1,1 @@
-export { MacbookAir } from "./MacbookAir";
+export { PoshInterface } from "./MacbookAir";
